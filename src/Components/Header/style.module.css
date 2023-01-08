@@ -1,0 +1,29 @@
+.linkStyle {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: 28px;
+    margin-left: 10px;
+}
+
+.linkStyleBtn {
+    text-decoration: none;
+    color: black;
+    font-size: smaller;
+    min-width: 70px;
+    font-weight: bolder;
+}
+
+.linkStyleBtnactive {
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    background-color: black;
+    /* height: 25spx; */
+    display: flex;
+    min-width: 60px;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 10px;
+    border-radius: 12px;
+}
