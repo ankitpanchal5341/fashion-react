@@ -10,6 +10,13 @@ export { default as Brand_6_img } from './Rectangle 45.png'
 export { default as New_A_1 } from './Rectangle 20.png'
 export { default as New_A_2 } from './Rectangle 21.png'
 export { default as New_A_3 } from './Rectangle 22.png'
+export { default as Payday_sale_img_1 } from './Rectangle 24.png'
+export { default as Payday_sale_img_2 } from './Group 84.png'
+export { default as Payday_sale_img_3 } from './Group 17.png'
+export { default as Young_fvt_1 } from './Rectangle 49.png'
+export { default as Young_fvt_2 } from './Rectangle 50.png'
+export { default as DownloadBanner_1 } from './Group 85.png'
+export { default as DownloadBanner_2 } from './Group 86.png'
 
 
 
